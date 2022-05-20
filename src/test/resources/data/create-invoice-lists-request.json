@@ -1,0 +1,14 @@
+{
+"client":"Tester 1",
+"vatRate":12,
+"lineItem":[{
+"quantity":12,
+"description":"dummy description data",
+"unitPrice": 3000
+},
+{
+"quantity":5,
+"description":"dummy description data",
+"unitPrice": 2000.24
+}]	
+}

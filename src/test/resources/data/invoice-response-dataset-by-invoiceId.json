@@ -1,0 +1,25 @@
+{
+    "id": 1,
+    "client": "Tester 2",
+    "vatRate": 12,
+    "invoiceDate": "2022-05-19T14:36:57.182+00:00",
+    "lineItem": [
+        {
+            "id": 1,
+            "quantity": 12,
+            "description": "dummy description data",
+            "unitPrice": 3000.0,
+            "lineItemTotal": 36000.0
+        },
+        {
+            "id": 2,
+            "quantity": 5,
+            "description": "dummy description data",
+            "unitPrice": 2000.24,
+            "lineItemTotal": 10001.2
+        }
+    ],
+    "vat": 46001.2,
+    "total": 51001.438,
+    "subTotal": 46001.2
+}

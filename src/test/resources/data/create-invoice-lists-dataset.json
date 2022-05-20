@@ -1,0 +1,20 @@
+{
+  "invoice-with-items-1": {
+    "client": "Tester 1",
+    "vatRate": 10,
+    "lineItem": [
+      {
+        
+        "quantity": 12,
+        "description": "dummy description data",
+        "unitPrice": 2000
+      },
+      {
+       
+        "quantity": 10,
+        "description": "dummy description data",
+        "unitPrice": 2000.24
+      }
+    ]
+  }
+}

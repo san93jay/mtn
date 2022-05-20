@@ -1,0 +1,377 @@
+[
+    {
+        "id": 1,
+        "client": "Tester 1",
+        "vatRate": 10,
+        "invoiceDate": "2022-05-19T11:29:16.058+00:00",
+        "lineItem": [
+            {
+                "id": 1,
+                "quantity": 12,
+                "description": "dummy description data",
+                "unitPrice": 2000.0,
+                "lineItemTotal": 24000.0
+            },
+            {
+                "id": 2,
+                "quantity": 10,
+                "description": "dummy description data",
+                "unitPrice": 2000.24,
+                "lineItemTotal": 20002.4
+            }
+        ],
+        "vat": 44002.4,
+        "total": 48002.637,
+        "subTotal": 44002.4
+    },
+    {
+        "id": 2,
+        "client": "Tester 1",
+        "vatRate": 10,
+        "invoiceDate": "2022-05-19T12:32:27.201+00:00",
+        "lineItem": [
+            {
+                "id": 3,
+                "quantity": 12,
+                "description": "dummy description data",
+                "unitPrice": 2000.0,
+                "lineItemTotal": 24000.0
+            },
+            {
+                "id": 4,
+                "quantity": 10,
+                "description": "dummy description data",
+                "unitPrice": 2000.24,
+                "lineItemTotal": 20002.4
+            }
+        ],
+        "vat": 44002.4,
+        "total": 48002.637,
+        "subTotal": 44002.4
+    },
+    {
+        "id": 3,
+        "client": "Tester 2",
+        "vatRate": 12,
+        "invoiceDate": "2022-05-19T14:36:57.182+00:00",
+        "lineItem": [
+            {
+                "id": 5,
+                "quantity": 12,
+                "description": "dummy description data",
+                "unitPrice": 3000.0,
+                "lineItemTotal": 36000.0
+            },
+            {
+                "id": 6,
+                "quantity": 5,
+                "description": "dummy description data",
+                "unitPrice": 2000.24,
+                "lineItemTotal": 10001.2
+            }
+        ],
+        "vat": 46001.2,
+        "total": 51001.438,
+        "subTotal": 46001.2
+    },
+    {
+        "id": 4,
+        "client": "Tester 1",
+        "vatRate": 12,
+        "invoiceDate": "2022-05-19T18:11:40.745+00:00",
+        "lineItem": [
+            {
+                "id": 7,
+                "quantity": 12,
+                "description": "dummy description data",
+                "unitPrice": 3000.0,
+                "lineItemTotal": 36000.0
+            },
+            {
+                "id": 8,
+                "quantity": 5,
+                "description": "dummy description data",
+                "unitPrice": 2000.24,
+                "lineItemTotal": 10001.2
+            }
+        ],
+        "vat": 46001.2,
+        "total": 51001.438,
+        "subTotal": 46001.2
+    },
+    {
+        "id": 5,
+        "client": "Tester 1",
+        "vatRate": 12,
+        "invoiceDate": "2022-05-19T18:14:29.711+00:00",
+        "lineItem": [
+            {
+                "id": 9,
+                "quantity": 12,
+                "description": "dummy description data",
+                "unitPrice": 3000.0,
+                "lineItemTotal": 36000.0
+            },
+            {
+                "id": 10,
+                "quantity": 5,
+                "description": "dummy description data",
+                "unitPrice": 2000.24,
+                "lineItemTotal": 10001.2
+            }
+        ],
+        "vat": 46001.2,
+        "total": 51001.438,
+        "subTotal": 46001.2
+    },
+    {
+        "id": 6,
+        "client": "Tester 1",
+        "vatRate": 12,
+        "invoiceDate": "2022-05-19T18:17:46.249+00:00",
+        "lineItem": [
+            {
+                "id": 11,
+                "quantity": 12,
+                "description": "dummy description data",
+                "unitPrice": 3000.0,
+                "lineItemTotal": 36000.0
+            },
+            {
+                "id": 12,
+                "quantity": 5,
+                "description": "dummy description data",
+                "unitPrice": 2000.24,
+                "lineItemTotal": 10001.2
+            }
+        ],
+        "vat": 46001.2,
+        "total": 51001.438,
+        "subTotal": 46001.2
+    },
+    {
+        "id": 7,
+        "client": "Tester 1",
+        "vatRate": 12,
+        "invoiceDate": "2022-05-19T18:24:01.609+00:00",
+        "lineItem": [
+            {
+                "id": 13,
+                "quantity": 12,
+                "description": "dummy description data",
+                "unitPrice": 3000.0,
+                "lineItemTotal": 36000.0
+            },
+            {
+                "id": 14,
+                "quantity": 5,
+                "description": "dummy description data",
+                "unitPrice": 2000.24,
+                "lineItemTotal": 10001.2
+            }
+        ],
+        "vat": 46001.2,
+        "total": 51001.438,
+        "subTotal": 46001.2
+    },
+    {
+        "id": 8,
+        "client": "Tester 1",
+        "vatRate": 12,
+        "invoiceDate": "2022-05-19T18:29:48.828+00:00",
+        "lineItem": [
+            {
+                "id": 15,
+                "quantity": 12,
+                "description": "dummy description data",
+                "unitPrice": 3000.0,
+                "lineItemTotal": 36000.0
+            },
+            {
+                "id": 16,
+                "quantity": 5,
+                "description": "dummy description data",
+                "unitPrice": 2000.24,
+                "lineItemTotal": 10001.2
+            }
+        ],
+        "vat": 46001.2,
+        "total": 51001.438,
+        "subTotal": 46001.2
+    },
+    {
+        "id": 9,
+        "client": "Tester 1",
+        "vatRate": 12,
+        "invoiceDate": "2022-05-19T18:30:37.044+00:00",
+        "lineItem": [
+            {
+                "id": 17,
+                "quantity": 12,
+                "description": "dummy description data",
+                "unitPrice": 3000.0,
+                "lineItemTotal": 36000.0
+            },
+            {
+                "id": 18,
+                "quantity": 5,
+                "description": "dummy description data",
+                "unitPrice": 2000.24,
+                "lineItemTotal": 10001.2
+            }
+        ],
+        "vat": 46001.2,
+        "total": 51001.438,
+        "subTotal": 46001.2
+    },
+    {
+        "id": 10,
+        "client": "Tester 1",
+        "vatRate": 12,
+        "invoiceDate": "2022-05-19T18:36:12.505+00:00",
+        "lineItem": [
+            {
+                "id": 19,
+                "quantity": 12,
+                "description": "dummy description data",
+                "unitPrice": 3000.0,
+                "lineItemTotal": 36000.0
+            },
+            {
+                "id": 20,
+                "quantity": 5,
+                "description": "dummy description data",
+                "unitPrice": 2000.24,
+                "lineItemTotal": 10001.2
+            }
+        ],
+        "vat": 46001.2,
+        "total": 51001.438,
+        "subTotal": 46001.2
+    },
+    {
+        "id": 11,
+        "client": "Tester 1",
+        "vatRate": 12,
+        "invoiceDate": "2022-05-19T18:36:12.633+00:00",
+        "lineItem": [
+            {
+                "id": 21,
+                "quantity": 12,
+                "description": "dummy description data",
+                "unitPrice": 3000.0,
+                "lineItemTotal": 36000.0
+            },
+            {
+                "id": 22,
+                "quantity": 5,
+                "description": "dummy description data",
+                "unitPrice": 2000.24,
+                "lineItemTotal": 10001.2
+            }
+        ],
+        "vat": 46001.2,
+        "total": 51001.438,
+        "subTotal": 46001.2
+    },
+    {
+        "id": 12,
+        "client": "Tester 1",
+        "vatRate": 12,
+        "invoiceDate": "2022-05-19T18:38:25.797+00:00",
+        "lineItem": [
+            {
+                "id": 23,
+                "quantity": 12,
+                "description": "dummy description data",
+                "unitPrice": 3000.0,
+                "lineItemTotal": 36000.0
+            },
+            {
+                "id": 24,
+                "quantity": 5,
+                "description": "dummy description data",
+                "unitPrice": 2000.24,
+                "lineItemTotal": 10001.2
+            }
+        ],
+        "vat": 46001.2,
+        "total": 51001.438,
+        "subTotal": 46001.2
+    },
+    {
+        "id": 13,
+        "client": "Tester 1",
+        "vatRate": 12,
+        "invoiceDate": "2022-05-19T18:38:25.933+00:00",
+        "lineItem": [
+            {
+                "id": 25,
+                "quantity": 12,
+                "description": "dummy description data",
+                "unitPrice": 3000.0,
+                "lineItemTotal": 36000.0
+            },
+            {
+                "id": 26,
+                "quantity": 5,
+                "description": "dummy description data",
+                "unitPrice": 2000.24,
+                "lineItemTotal": 10001.2
+            }
+        ],
+        "vat": 46001.2,
+        "total": 51001.438,
+        "subTotal": 46001.2
+    },
+    {
+        "id": 14,
+        "client": "Tester 1",
+        "vatRate": 12,
+        "invoiceDate": "2022-05-19T19:07:47.299+00:00",
+        "lineItem": [
+            {
+                "id": 27,
+                "quantity": 12,
+                "description": "dummy description data",
+                "unitPrice": 3000.0,
+                "lineItemTotal": 36000.0
+            },
+            {
+                "id": 28,
+                "quantity": 5,
+                "description": "dummy description data",
+                "unitPrice": 2000.24,
+                "lineItemTotal": 10001.2
+            }
+        ],
+        "vat": 46001.2,
+        "total": 51001.438,
+        "subTotal": 46001.2
+    },
+    {
+        "id": 15,
+        "client": "Tester 1",
+        "vatRate": 12,
+        "invoiceDate": "2022-05-19T19:09:23.998+00:00",
+        "lineItem": [
+            {
+                "id": 29,
+                "quantity": 12,
+                "description": "dummy description data",
+                "unitPrice": 3000.0,
+                "lineItemTotal": 36000.0
+            },
+            {
+                "id": 30,
+                "quantity": 5,
+                "description": "dummy description data",
+                "unitPrice": 2000.24,
+                "lineItemTotal": 10001.2
+            }
+        ],
+        "vat": 46001.2,
+        "total": 51001.438,
+        "subTotal": 46001.2
+    }
+]
